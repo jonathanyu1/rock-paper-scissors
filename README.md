@@ -1,0 +1,1 @@
+This project is a quick rock-paper-scissors simulator which prompts user for input and plays against a computer 5 times. This is currently played in console but will be updated in the future.
